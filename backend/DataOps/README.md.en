@@ -1,0 +1,22 @@
+# DataOps
+
+In Bridgewell, we are building and operating a data-intensive platform for the mainly purpose of internet advertisement. Our customers cover the largest e-commerce companies in Taiwan and branding requirements from many kinds of industries.
+
+In Data Team, our biggest responsibility is to make sure the system could reliably serve the high quality data, since we make decision based on data. There are many exciting challenges in our daily work. One of the largest is that our platform have to process data with throughput over 2TB per day, along with up to thousands of attributes per record, and have to instantly reflect analysis, association results for the business requirements.
+In addition, by employing many cutting-edge technologies, we are highly focusing on improving our data’s quality assurance and platform’s performance, and reliability.
+
+# what you will do in our team
+
+- work on and dive into the high performance required data platform
+- collaborate with data scientist to design and model data content and schema
+- define and investigate the data integrity problem and defection
+- ensure the timeliness, completeness, and quality of the data delivery
+- fulfill the ad hoc data analysis demands for business intelligence
+- study all kinds of data processing solution of streaming, batch, OLTP and OLAP
+
+# what we are using now
+
+- Python ecosystem
+- data ETL and warehousing with Kafka, Cassandra, Spark, and HDFS
+- aggregation analysis and visualization with OpenTSDB, Grafana, Fluentd, Elasticsearch, and Kibana
+- development and deployment with Docker, Gitlab, Gitlab CI, Jenkins, and Ansible
