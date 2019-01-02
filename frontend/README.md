@@ -23,10 +23,12 @@
 - 熟悉 JavaScript、CSS、HTML
 
 ## 加分能力
-- 熟悉各種瀏覽器 e.g., Chrome, Safari, …, etc
-- 熟悉 HTTP
 - 熟悉 jQuery
-- 有軟體測試的經驗 e.g., 單元測試, 整合測試
+- 熟悉跨瀏覽器的行為處理
+- 熟悉 HTTP, HTTP/2 等協定
+- 有軟體測試的經驗，如單元測試、整合測試
+- 熟悉 webpack、gulp 等打包及流程管理工具
+- 熟悉任一前端網頁框架，如 react、vue、angular 等
 
 以下連結有兩個小問題想請應徵者隨應徵信件回覆
 https://github.com/bridgewell/Jobs/blob/master/frontend/hw0.md
